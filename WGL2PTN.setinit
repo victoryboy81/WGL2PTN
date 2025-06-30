@@ -1,0 +1,24 @@
+
+PinCount= 72;
+
+PinAssign={ "utm_clk_in_pad", "test_mod_pad", "spif_din_pad", 
+        "srx_pad", "rst_in_n_pad", "GPIO_pad"[7]:I, "GPIO_pad"[6]:I, "GPIO_pad"[5]:I, 
+        "GPIO_pad"[4]:I, "GPIO_pad"[3]:I, "GPIO_pad"[2]:I, "GPIO_pad"[1]:I, 
+        "GPIO_pad"[0]:I, "shared_io_pad"[10]:I, "shared_io_pad"[9]:I, "shared_io_pad"[8]:I, 
+        "shared_io_pad"[7]:I, "shared_io_pad"[6]:I, "shared_io_pad"[5]:I, 
+        "shared_io_pad"[4]:I, "shared_io_pad"[3]:I, "shared_io_pad"[2]:I, 
+        "shared_io_pad"[1]:I, "shared_io_pad"[0]:I, "mc_port_pad"[8]:I, "mc_port_pad"[7]:I, 
+        "mc_port_pad"[6]:I, "mc_port_pad"[5]:I, "mc_port_pad"[4]:I, "mc_port_pad"[3]:I, 
+        "mc_port_pad"[2]:I, "mc_port_pad"[1]:I, "mc_port_pad"[0]:I, "usb_AVSSRX_pad":I, 
+        "usb_AVDDTX_pad":I, "usb_AVDDRX_pad":I, "dac_op1_pad":I, "usb_DM_pad":I, 
+        "usb_DP_pad":I, "usb_REXT_pad":I, "usb_AVSSTX_pad":I, "scl_pad":I, 
+        "sda_pad":I, "dac_mode_pad":I, "dac_clka_pad":I, "dac_vref_pad":I, 
+        "dac_on2_pad":I, "dac_op2_pad":I, "dac_on1_pad":I, "dac_data_pad"[13], 
+        "dac_data_pad"[12], "dac_data_pad"[11], "dac_data_pad"[10], "dac_data_pad"[9], 
+        "dac_data_pad"[8], "dac_data_pad"[7], "dac_data_pad"[6], "dac_data_pad"[5], 
+        "dac_data_pad"[4], "dac_data_pad"[3], "dac_data_pad"[2], "dac_data_pad"[1], 
+        "dac_data_pad"[0], "stx_pad", "dac_wrta_pad", "dac_wrtb_pad", "dac_rext_pad", 
+        "utm_clk_out_pad", "odt_pad", "spif_dout_pad", "spif_cs_n_pad", "spif_clk_pad" 
+        }
+
+
